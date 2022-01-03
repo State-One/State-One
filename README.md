@@ -2,8 +2,9 @@
   <img src="./state.png" style="width:300px";>
 </p>
 
-**A Decentralized Autonomous State with a DeCentral Bank and privacy preserving Stablecoin System. No private VC round. Only public contribution matters!**
+> WIP :construction_worker:. Any contribution is highly appreciated!
 
+**A Decentralized Autonomous State with a DeCentral Bank and privacy preserving Stablecoin System. No private VC round. Only public contribution matters!**
 
 <p align="left">
   <img src="./world.png" style="width:600px";>
@@ -14,3 +15,4 @@
 * [Whitepaper](./Whitepaper.md)
 * [Specification](./Specification.md)
 * [Research](./Research/README.md)
+* [Discussions](https://github.com/State-One/State-One/discussions)
