@@ -62,7 +62,7 @@ An increasing number of blockchain projects try to implement DIDs and other iden
 
 The price volatility of cryptocurrencies as well as the public transaction history are the biggest barriers to widespread adoption that cryptocurrencies face today. Therefore, multiple protocols try to implement so-called “stablecoins”. However, most of them either rely on overcollateralization, which is capital inefficient and/or centralized organisation as well mechanisms. Furthermore, these protocols don’t support private transactions, which makes them useless for companies or individuals that don’t want to share everything immediately publicly with everyone. 
 
-State.One uses an elastic monetary system that can be pegged to the world’s major currencies or even to a basket of choice to retain its purchasing power. 
+State.One uses an elastic monetary system that can be pegged to the world’s major currencies or even to a basket of choice to retain its purchasing power. The biggest benefit of DeCentral Bank of State.One is hereby the token distribution ([Fair Launch](#fair-launch). Compared to other solutions the voting power is fairly and transparently distributed from the beginning and has no single entity that controls the protocol (e.g. [Terraform Labs](https://finder.terra.money/mainnet/address/terra1dp0taj85ruc299rkdvzp4z5pfg6z6swaed74e6)).   
 
 #### Oracles 
 
@@ -75,7 +75,9 @@ The following stability mechanism design is inspired by [Terra Money](https://as
 - If the demand of StateD decreases, the price of 1 StateD goes below 1D. Anyone can now sell 1 StateD for 1D and buy it for less until the price is back to 1. 
 
 These on-chain swap mechanisms should be combined with open source bots that everyone can run and automatically try to benefit from any kind of arbitrage as quickly as possible. 
-To enable this swap mechanism a counterparty needs to be established that indirectly is willing to accept short term losses in case the total demand of the currency decreases as well as benefits from an increased demand. Therefore the governance token One will be minted and solt or burnt. This effectively moves the volatility from the stablecoins to the governance token One. It’s assumed that governance token holders lock their tokens (see [Separation of Powers](#separation-of-powers)) for a longer period of time and thus don’t care about short term losses.     
+To enable this swap mechanism a counterparty needs to be established that indirectly is willing to accept short term losses in case the total demand of the currency decreases as well as benefits from an increased demand. Therefore the governance token One will be minted and solt or burnt. This effectively moves the volatility from the stablecoins to the governance token One. It’s assumed that token holders lock their tokens (see [Separation of Powers](#separation-of-powers)) for a longer period of time and thus don’t care about short term losses. 
+
+Since the most important factor in any stablecoin is the trust in the system, an additional failsafe mechanism will be implemented, which ideally will never be used. In emergency situations and in case all other mechanisms have failed the available amount of One can be burnt from every wallet similar to [ampleforth](https://www.ampleforth.org/papers/). 
 
 #### Piravte Payments
 
