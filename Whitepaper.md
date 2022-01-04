@@ -77,8 +77,6 @@ The following stability mechanism design is inspired by [Terra Money](https://as
 These on-chain swap mechanisms should be combined with open source bots that everyone can run and automatically try to benefit from any kind of arbitrage as quickly as possible. 
 To enable this swap mechanism a counterparty needs to be established that indirectly is willing to accept short term losses in case the total demand of the currency decreases as well as benefits from an increased demand. Therefore the governance token One will be minted and solt or burnt. This effectively moves the volatility from the stablecoins to the governance token One. It’s assumed that token holders lock their tokens (see [Separation of Powers](#separation-of-powers)) for a longer period of time and thus don’t care about short term losses. 
 
-Since the most important factor in any stablecoin is the trust in the system, an additional failsafe mechanism will be implemented, which ideally will never be used. In emergency situations and in case all other mechanisms have failed the available amount of One can be burnt from every wallet similar to [ampleforth](https://www.ampleforth.org/papers/). 
-
 #### Piravte Payments
 
 ### Token Economics
