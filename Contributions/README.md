@@ -15,9 +15,11 @@ Everything is hereby transparently tracked via git. Public contributions can be 
 
 > **:loudspeaker:** The document itself will change over time via contributions. In the future this process should be entirely on-chain and as decentralised as possible.  
 
-Ultimately all citizens with voting rights have the right to accept any contribution they want as long as it gets the required number of approvals. However, the citizens should follow these guidelines:
+In the future all citizens with voting rights have the right to accept any contribution they want as long as it gets the required number of approvals. As long as this is tracked on GitHub only the top [24 citizens](./Citizens.md), according to the number of voting rights, have the right to accept PRs. The citizens should follow these guidelines:
 - At the beginning a contribution of **1 hour should be worth roughly 10 voting rights (tokens).** 
 - After each distribution of a **multiple of 100.000 voting rights, the amount of tokens distributed per hour is halved.** 
+
+Not all contributions should be rewarded on an hourly rate. It’s possible to make rare exceptions to the above rules, if something is potentially very useful for the project. For example, Amazon offers to implement the stablecoin as a payment solution. 
 
 ## :pencil: Process
 
