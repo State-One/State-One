@@ -28,7 +28,7 @@ The below process let’s you either claim voting rights for previous contributi
 ### 1. Share (Future) Contribution 
 
    1. [Fork](https://github.com/State-One/State-One) this repository.
-   2. In the newly created fork, create a copy of the contirubtion template ([`contirubtions/contirubtion-template.md`](contirubtions/contirubtion-template.md)). Make sure you **do not modify the template file directly**.
+   2. In the newly created fork, create a copy of the contirubtion template ([`contirubtion-template.md`](./contirubtion-template.md)). Make sure you **do not modify the template file directly**.
    3. Name the new file after your project: `name_contirubtion_number.md`.
    4. Fill out the template with the details of your contirubtion.  
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
