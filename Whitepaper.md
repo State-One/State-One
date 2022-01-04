@@ -77,7 +77,9 @@ The following stability mechanism design is inspired by [Terra Money](https://as
 These on-chain swap mechanisms should be combined with open source bots that everyone can run and automatically try to benefit from any kind of arbitrage as quickly as possible. 
 To enable this swap mechanism a counterparty needs to be established that indirectly is willing to accept short term losses in case the total demand of the currency decreases as well as benefits from an increased demand. Therefore the governance token One will be minted and solt or burnt. This effectively moves the volatility from the stablecoins to the governance token One. It’s assumed that token holders lock their tokens (see [Separation of Powers](#separation-of-powers)) for a longer period of time and thus don’t care about short term losses. 
 
-#### Piravte Payments
+#### Private Payments 
+
+No company wants to publicly share it’s entire transaction history publicly with it’s competition. Any stablecoin system that wants to achieve mass adoption therefore needs to support some form of private transactions. State.one will therefore natively implement a [multi asset shielded pool](https://research.metastate.dev/multi-asset_shielded_pool/), which provides unified privacy for all stablecoins on state.one.   
 
 ### Token Economics
 
