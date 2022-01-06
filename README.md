@@ -12,6 +12,7 @@
 
 ## Table of Contents
 * [Contributions](./Contributions/README.md)
+* [Citizens](./Contributions/Citizens.md)
 * [Whitepaper](./Whitepaper.md)
 * [Specification](./Specification.md)
 * [Research](./Research/README.md)
