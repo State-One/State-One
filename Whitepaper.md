@@ -83,5 +83,13 @@ No company wants to publicly share it’s entire transaction history publicly wi
 
 ### Token Economics
 
-The total amount of voting rights at the launch of the network depends on the hours contributed to the project. At the beginning a contribution of 1 hour should be worth roughly 10 voting rights (tokens). After each distribution of a multiple of 100.000 voting rights, the amount of tokens distributed per hour is halved. 
+The total amount of voting rights at the launch of the network depends on the hours contributed to the project. At the beginning a contribution of 1 hour should be worth roughly 10 voting rights (= tokens). After each distribution of a multiple of 10.000 hours (= 100.000 voting rights without the bonus scheme below), the amount of tokens distributed per hour is halved. 
+
+Long time contributors should be motivated to continue to contribute to the project, because of their experience. After each multiple of 1000 hours contribution (~roughly half a year of contributing), they can claim a 10% bonus on their earned tokens up to this point. 
+
+At the launch of the network an additional 10% of the available tokens is allocated to a treasury that will be responsible for the future development and maintenance of State.One. The treasury will also be funded via slashing, fees and seigniorage. 
+
+Furthermore, all citizens can at any time vote on changing the incentive scheme or minting additional tokens for clearly defined purposes. A potential use case for minting additional tokens early could be for example to create a DAO or multisig on existing distributed networks, which later can be connected in a trust minimizing way, in order to offer alternative ways to incentivize early contributors. Not everyone is in a position to work for voting rights, which can not be sold or traded for an undefined time. This could for example be used to sell voting rights and use this for a [Decentralized Sovereign Wealth Fund](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27).  
+
+TODO: Example Calculations 
 
