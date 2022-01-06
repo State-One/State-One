@@ -1,4 +1,4 @@
-# Citizens :student: 
+# Citizens 
 
 The following list should track accepted contributors and their accepted voting rights until this is handled fully on-chain. As long as this is tracked on GitHub only the top 24 citizens, according to the number of voting rights, have the right to accept PRs. 
 
